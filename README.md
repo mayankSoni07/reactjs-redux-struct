@@ -1,2 +1,4 @@
 # reactjs-redux-struct
-Structure of ReactJS with Redux
+React JS and Redux structure.
+
+Note : Commongateway(redux-promise-middleware) and Routing is not implemented in that struct.
